@@ -1,6 +1,6 @@
 # ELID (Explain Like I'm Dumb) 🧠⚡
 
-> **Format:** Agent Skill (`SKILL.md`) · **License:** [MIT](LICENSE) · **Compatibility:** Antigravity · Claude Code · Cursor · Windsurf · Qoder
+> **Format:** Agent Skill (`SKILL.md`) · **License:** [Proprietary - All Rights Reserved](LICENSE) · **Compatibility:** Antigravity · Claude Code · Cursor · Windsurf · Qoder
 
 
 > **The Universal Cognitive Deconstruction Engine for AI Coding Assistants & Platforms.**  
@@ -107,4 +107,5 @@ A response fails the ELID standard if it violates any of the following rules:
 
 ## 📜 License
 
-Released under the [MIT License](LICENSE). Free for personal, educational, and commercial use.
+Copyright (c) 2026 Sedilix. All rights reserved. See [LICENSE](LICENSE) for terms. Personal and non-commercial local development use permitted; unauthorized commercial redistribution or sublicensing prohibited.
+

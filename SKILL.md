@@ -10,7 +10,7 @@ description: >
   "nerd mode" or "elid off".
 tags: [pedagogy, reasoning, learning, explanation, mental-models, visual-learning, education, feynman-technique]
 argument-hint: "[on|off|nerd]"
-license: MIT
+license: Proprietary - All Rights Reserved
 ---
 
 # ELID — Explain Like I'm Dumb
@@ -121,3 +121,4 @@ A response fails the ELID standard if it exhibits any of the following:
 3. **Wall of Text (>3 Paragraphs Without Visuals):** Every conceptual answer must break text blocks with diagrams, tables, or ASCII schematics.
 4. **Unexplained Acronyms:** Never drop "DNS", "EBITDA", "PID", "CFD", "APR", or "JWT" without immediately translating them into plain language.
 5. **Condescending Tone:** Never use patronizing phrases like "As you probably do not know..." or "This is very simple even for you." Respect the user's intelligence; target only the clarity of the explanation.
+

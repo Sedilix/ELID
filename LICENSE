@@ -1,21 +1,31 @@
-MIT License
+ELID Source-Available & Non-Commercial License (All Rights Reserved)
 
-Copyright (c) 2026 Sedilix
+Copyright (c) 2026 Sedilix. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The ELID (Explain Like I'm Dumb) pedagogical framework, cognitive deconstruction
+architecture, prompt system, visual templates, and all associated materials in
+this repository are the exclusive intellectual property (IP) of Sedilix.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. PERMITTED USES:
+- You may view, download, clone, and study this repository for personal, educational,
+  and non-commercial evaluation.
+- You may load and run this skill locally within your personal AI coding environments
+  (e.g., Antigravity, Claude Code, Cursor, Windsurf, Qoder) for your own private use.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. RESTRICTIONS:
+- NO UNAUTHORIZED MODIFICATIONS / DERIVATIVES: You may not distribute, re-publish,
+  or sublicense modified versions of this skill, its architecture, or its playbooks.
+- NO COMMERCIAL REDISTRIBUTION: You may not sell, monetize, sublicense, bundle,
+  or distribute this skill on any agent marketplace, prompt repository, or commercial
+  software catalog without explicit prior written authorization from Sedilix.
+- NO REBRANDING: You may not claim authorship, remove author attribution, or market
+  this intellectual property under a different name.
+
+3. TRADEMARK & ATTRIBUTION:
+- 'ELID', 'Explain Like I'm Dumb', and its 5-part cognitive architecture are the IP
+  of Sedilix. Any permitted sharing must retain this original notice and clear
+  attribution to Sedilix.
+
+THE SOFTWARE AND METHODOLOGY ARE PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY.
