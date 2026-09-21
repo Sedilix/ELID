@@ -1,10 +1,17 @@
-# ELID (Explain Like I'm Dumb) 🧠⚡
+<p align="center">
+  <img src="assets/logo.png" width="180" height="180" alt="ELID Logo" />
+</p>
 
-> **Format:** Agent Skill (`SKILL.md`) · **License:** [Proprietary - All Rights Reserved](LICENSE) · **Compatibility:** OpenAI · Antigravity · Claude Code · Cursor · Windsurf · GitHub Copilot · Ollama · Continue
+<h1 align="center">ELID (Explain Like I'm Dumb)</h1>
 
+<p align="center">
+  <b>The Universal Cognitive Deconstruction Engine for AI Coding Assistants & Platforms.</b><br/>
+  High-rigor, zero-jargon explanations grounded in physical intuition, visual blueprints, and bilingual jargon translation.
+</p>
 
-> **The Universal Cognitive Deconstruction Engine for AI Coding Assistants & Platforms.**  
-> High-rigor, zero-jargon explanations grounded in physical intuition, visual blueprints, and bilingual jargon translation.
+<p align="center">
+  <b>Format:</b> Agent Skill (<code>SKILL.md</code>) &nbsp;•&nbsp; <b>License:</b> <a href="LICENSE">Proprietary - All Rights Reserved</a> &nbsp;•&nbsp; <b>Compatibility:</b> OpenAI · Antigravity · Claude Code · Cursor · Windsurf · Copilot · Ollama
+</p>
 
 ---
 
@@ -260,6 +267,7 @@ A response fails the ELID standard if it violates any of the following rules:
 ## 📜 License
 
 Copyright (c) 2026 Sedilix. All rights reserved. See [LICENSE](LICENSE) for terms. Personal and non-commercial local development use permitted; unauthorized commercial redistribution or sublicensing prohibited.
+
 
 
 
