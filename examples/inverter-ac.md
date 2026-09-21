@@ -16,8 +16,8 @@ A traditional AC drives like the reckless driver (100% blast, then dead OFF). An
 ```mermaid
 flowchart TD
     subgraph Traditional_AC["❌ Traditional AC (Bang-Bang Control)"]
-        T1["Full 100% Compressor Roar"] --> T2["Room Freezes -> Motor Shuts Off (0%)"]
-        T2 --> T3["Room Warms Up -> Massive Inrush Current (100%)"]
+        T1["Full 100% Compressor Roar"] --> T2["Room Freezes: Motor Shuts Off (0%)"]
+        T2 --> T3["Room Warms Up: Massive Inrush Current (100%)"]
     end
 
     subgraph Inverter_AC["✅ Inverter AC (Variable Frequency)"]

@@ -27,12 +27,12 @@ Every conceptual or technical explanation produced by an ELID-enabled agent foll
 
 ```mermaid
 flowchart TD
-    Q["❓ User asks complex question"] --> P1["1️⃣ 10-Second Physical Anchor\n(Visceral everyday physical intuition)"]
-    P1 --> P2["2️⃣ Visual Blueprint\n(Mermaid flowchart or ASCII schematic)"]
-    P2 --> P3["3️⃣ Mechanical Flow\n(Chronological cause & effect, step-by-step)"]
-    P3 --> P4["4️⃣ Jargon Decoder Table\n(Scary domain terms translated to plain English)"]
-    P4 --> P5["5️⃣ Failure Stress Test\n(How the system breaks or stalls)"]
-    P5 --> Fork["💡 Frictionless Fork\n(1-word prompt to switch to 'nerd mode')"]
+    A["❓ User Asks Complex Question"] --> B["1. The 10-Second Physical Anchor<br/>Everyday visceral physical intuition"]
+    B --> C["2. The Visual Blueprint<br/>Mermaid diagram or ASCII schematic"]
+    C --> D["3. Step-by-Step Mechanical Flow<br/>Chronological cause and effect sequence"]
+    D --> E["4. Bilingual Jargon Decoder Table<br/>Scary domain terms translated to plain English"]
+    E --> F["5. The Failure Stress Test<br/>How the system breaks or stalls"]
+    F --> G["💡 Frictionless Fork<br/>One-word toggle to enter nerd mode"]
 ```
 
 1. **Part 1: The 10-Second Tangible Anchor**: Ground the concept in a physical sensation or everyday object (e.g. car windows, water pipes, kitchen strainers, rubber sheets).
@@ -108,4 +108,6 @@ A response fails the ELID standard if it violates any of the following rules:
 ## 📜 License
 
 Copyright (c) 2026 Sedilix. All rights reserved. See [LICENSE](LICENSE) for terms. Personal and non-commercial local development use permitted; unauthorized commercial redistribution or sublicensing prohibited.
+
+
 
