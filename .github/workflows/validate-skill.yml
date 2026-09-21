@@ -1,0 +1,28 @@
+name: Validate Skill
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Verify Required Files
+        run: |
+          test -f SKILL.md || { echo "SKILL.md is missing"; exit 1; }
+          test -f README.md || { echo "README.md is missing"; exit 1; }
+          test -f LICENSE || { echo "LICENSE is missing"; exit 1; }
+
+      - name: Validate YAML Frontmatter in SKILL.md
+        run: |
+          head -n 20 SKILL.md | grep -q "^---" || { echo "Missing YAML frontmatter opening delimiter"; exit 1; }
+          grep -q "^name: elid" SKILL.md || { echo "Missing or incorrect name in frontmatter"; exit 1; }
+          grep -q "^description:" SKILL.md || { echo "Missing description in frontmatter"; exit 1; }
+          grep -q "^tags:" SKILL.md || { echo "Missing tags in frontmatter"; exit 1; }
+          echo "YAML frontmatter valid."
