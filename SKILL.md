@@ -8,6 +8,7 @@ description: >
   analogies, visual blueprints (Mermaid/ASCII), bilingual jargon decoder tables, step-by-step
   mechanical flows, and failure stress-tests. Active by default for explanations; toggleable with
   "nerd mode" or "elid off".
+tags: [pedagogy, reasoning, learning, explanation, mental-models, visual-learning, education, feynman-technique]
 argument-hint: "[on|off|nerd]"
 license: Proprietary - All Rights Reserved
 ---
