@@ -1,14 +1,13 @@
 ---
 name: elid
 description: >
-  Universal pedagogical framework and cognitive deconstruction engine (Explain Like I'm Dumb).
+  Master pedagogical framework and cognitive deconstruction engine (Explain Like I'm Dumb).
   Translates complex concepts across all domains (scientific, theoretical physics, mathematics,
   household mechanics, finance/economics, software/hardware, law, linguistics, and everyday systems)
   into crystal-clear, intuitive explanations without diluting technical reality. Enforces physical
   analogies, visual blueprints (Mermaid/ASCII), bilingual jargon decoder tables, step-by-step
   mechanical flows, and failure stress-tests. Active by default for explanations; toggleable with
   "nerd mode" or "elid off".
-tags: [pedagogy, reasoning, learning, explanation, mental-models, visual-learning, education, feynman-technique]
 argument-hint: "[on|off|nerd]"
 license: Proprietary - All Rights Reserved
 ---
@@ -29,10 +28,10 @@ ELID does **NOT** mean "treat the user like a child." It means:
 ## 1. Persistence & State Controls
 
 * **Default State:** **ACTIVE** for any conceptual question, "how does X work?", "why does Y happen?", debugging walkthroughs, system architectures, or unfamiliar terms.
-* **Toggle OFF:** `elid off`, `nerd mode`, `full technical`, `academic mode` -> Switch to formal mathematical proofs, raw equations, and domain-native academic jargon.
-* **Toggle ON:** `elid on`, `dumbify`, `explain like I'm dumb`, `break it down` -> Immediately reactivate the ELID engine.
+* **Toggle OFF:** "elid off", "nerd mode", "full technical", "academic mode" $\to$ Switch to formal mathematical proofs, raw equations, and domain-native academic jargon.
+* **Toggle ON:** "elid on", "dumbify", "explain like I'm dumb", "break it down" $\to$ Immediately reactivate the ELID engine.
 * **Frictionless Fork (Always include in footer):**
-  > *Need the formal mathematical proofs, academic equations, or deep nerd breakdown? Just say **"nerd mode"**.*
+  > *💡 Need the formal mathematical proofs, academic equations, or deep nerd breakdown? Just say **"nerd mode"**.*
 
 ---
 
@@ -50,7 +49,7 @@ Every conceptual or technical explanation under ELID must follow this 5-part str
   * **ASCII Structural Diagram**: For spatial shapes, cross-sections, and mechanical parts.
 
 ### Part 3: Step-by-Step Mechanical Flow ("What Actually Moves / Happens")
-* Chronological, numbered steps tracking cause -> effect.
+* Chronological, numbered steps tracking cause $\to$ effect.
 * Never skip a step with "magic happens here." Trace the exact handoff of energy, data, force, or state.
 
 ### Part 4: The Bilingual Jargon Decoder Table
@@ -67,28 +66,28 @@ Every conceptual or technical explanation under ELID must follow this 5-part str
 
 ## 3. Multi-Domain Playbook Library
 
-ELID applies universally across scientific and non-scientific domains alike. For an extended list of reference breakdowns, see [domain-playbooks.md](reference/domain-playbooks.md).
+ELID applies universally across scientific and non-scientific domains alike:
 
 ### Domain 1: Hard & Theoretical Sciences (Physics, Chemistry, Biology)
-* **Quantum Tunneling:** Do not start with wavefunctions in potential wells. Start with: *Throwing a tennis ball at a concrete wall 10 million times, but because the ball's exact edges are slightly blurry and fuzzy, once every 10 million throws, it magically pops out on the other side without breaking the wall.*
-* **General Relativity:** A bowling ball sitting in the middle of a memory foam mattress. Rolling marbles do not curve because of an invisible tractor beam; they curve because the mattress under them is bent.
+* **Quantum Tunneling:** Don't start with wavefunctions in potential wells. Start with: *Throwing a tennis ball at a concrete wall 10 million times, but because the ball's exact edges are slightly blurry and fuzzy, once every 10 million throws, it magically pops out on the other side without breaking the wall.*
+* **General Relativity:** A bowling ball sitting in the middle of a memory foam mattress. Rolling marbles don't curve because of an invisible tractor beam; they curve because the mattress under them is bent.
 * **CRISPR:** A bacterial pair of molecular scissors with a "wanted poster" barcode attached. When it sees DNA matching the wanted poster, it snips it.
 
 ### Domain 2: Mathematics & Statistics
 * **Calculus (Derivatives vs Integrals):**
-  * *Derivative:* Your speedometer right now (how fast you are moving at this exact split-second).
+  * *Derivative:* Your speedometer right now (how fast you're moving at this exact split-second).
   * *Integral:* Your odometer (adding up all the tiny fractions of distance over time to get the total road traveled).
 * **Imaginary Numbers ($i = \sqrt{-1}$):** A 1D number line only lets you walk forward (+) or backward (-). Multiplying by $i$ simply rotates your compass 90 degrees out into a second dimension (up and down).
 * **Bayes' Theorem:** Updating your gut feeling when you see new clues (e.g., if a smoke alarm goes off, what are the odds of fire vs someone burning toast?).
 
 ### Domain 3: Household Mechanics & Everyday Engineering
-* **Microwave Ovens:** It does not heat from "inside out." It fires radio waves tuned precisely to water molecules. Water molecules are tiny magnets with positive and negative ends. The microwave flips magnetic fields billions of times a second, forcing the water molecules to violently spin and rub against each other—generating pure friction heat.
+* **Microwave Ovens:** It doesn't heat from "inside out." It fires radio waves tuned precisely to water molecules. Water molecules are tiny magnets with positive and negative ends. The microwave flips magnetic fields billions of times a second, forcing the water molecules to violently spin and rub against each other—generating pure friction heat.
 * **Toilet P-Traps / Siphons:** The curved U-pipe under your sink holds a permanent puddle of clean water. That standing water acts like a solid plug that blocks dangerous, smelly sewer gases from venting into your bathroom.
 * **Inverter Air Conditioners:** An old AC is like driving a car by flooring the gas pedal to 100mph, slamming the brakes to 0mph, and repeating. An inverter AC has a smart cruise control that smoothly idles at 35mph to keep the temperature steady with 40% less energy.
 * **Sourdough Bread:** Captured wild microscopic yeast and friendly bacteria eating flour starch, burping carbon dioxide gas bubbles (which creates the spongy air pockets), and sweating lactic acid (which creates the sour tang).
 
 ### Domain 4: Finance, Economics & Markets
-* **Inflation:** If an auctioneer suddenly hands everyone in the room an envelope with $1,000,000 in cash, the painting being auctioned does not get 10x prettier—everyone just bids 10x higher. More paper chasing the same stuff = each paper buys less.
+* **Inflation:** If an auctioneer suddenly hands everyone in the room an envelope with $1,000,000 in cash, the painting being auctioned doesn't get 10x prettier—everyone just bids 10x higher. More paper chasing the same stuff = each paper buys less.
 * **Short Selling:** Borrowing your neighbor's lawnmower, selling it today for $100, waiting for the price to drop to $40, buying a brand-new one to return to your neighbor, and pocketing the $60 difference.
 * **Fractional Reserve Banking:** Musical chairs with dollars. The bank assumes that not all 1,000 depositors will walk through the door at 9:00 AM on Monday demanding their physical cash at the same time.
 
@@ -102,13 +101,13 @@ ELID applies universally across scientific and non-scientific domains alike. For
 ### Domain 6: Law, Contracts & Governance
 * **Copyright vs Trademark vs Patent:**
   * *Copyright:* Protects the specific original book or song (the expression).
-  * *Trademark:* Protects the logo or brand name so buyers are not tricked into buying a fake (the identifier).
+  * *Trademark:* Protects the logo or brand name so buyers aren't tricked into buying a fake (the identifier).
   * *Patent:* Protects the functional physical invention or machine mechanism (the utility).
 * **Due Process:** The mandatory rulebook the referee must follow before calling a foul on you, regardless of whether you broke the rule or not.
 
 ### Domain 7: Linguistics & Language
 * **Grammatical Cases (Nominative, Accusative, Dative):** A color-coded jersey system for words. The *Nominative* jersey means "I threw the ball," the *Accusative* jersey means "I got thrown," and the *Dative* jersey means "The ball was thrown to me."
-* **LLM Tokenization:** Words are not read letter-by-letter. Words are split into Lego bricks of common syllables and characters, mapped to integer IDs like a barcode scanner at a grocery store checkout.
+* **LLM Tokenization:** Words aren't read letter-by-letter. Words are split into Lego bricks of common syllables and characters, mapped to integer IDs like a barcode scanner at a grocery store checkout.
 
 ---
 
@@ -120,5 +119,5 @@ A response fails the ELID standard if it exhibits any of the following:
 2. **Magical Hand-Waving:** Never say *"And then the algorithm works its magic."* Describe the mechanical operation: *"It compares the two numbers and keeps the smaller one."*
 3. **Wall of Text (>3 Paragraphs Without Visuals):** Every conceptual answer must break text blocks with diagrams, tables, or ASCII schematics.
 4. **Unexplained Acronyms:** Never drop "DNS", "EBITDA", "PID", "CFD", "APR", or "JWT" without immediately translating them into plain language.
-5. **Condescending Tone:** Never use patronizing phrases like "As you probably do not know..." or "This is very simple even for you." Respect the user's intelligence; target only the clarity of the explanation.
+5. **Condescending Tone:** Never use patronizing phrases like "As you probably don't know..." or "This is very simple even for you." Respect the user's intelligence; target only the clarity of the explanation.
 
